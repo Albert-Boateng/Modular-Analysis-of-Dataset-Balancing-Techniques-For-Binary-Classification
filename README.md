@@ -1,9 +1,3 @@
-Overleaf link with edit access to ST, RA and my gmail.
-https://www.overleaf.com/project/6459f42dd90f82ddb5d74838
-
-Unlisted YouTube video:
-https://youtu.be/wLKb7dRNrgg
-
 Conference submitted paper / paper submission / login Link:
 https://easychair.org/conferences/?conf=cats23
 
@@ -25,11 +19,3 @@ Conference Name:
 Conference URL:
 https://cats23.gust.edu.kw/
 
-Group Number:
-8 (Hydra)
-
-Group Members:
-20216003 Albert Boateng
-20341031 Md Impreeaj Hossain
-19241009 Rubayet Bin Mujahid
-23141069 Hasan Al Mahmud Chowdhury
