@@ -4,9 +4,6 @@ https://easychair.org/conferences/?conf=cats23
 Paper title:
 Modular Analysis of Dataset Balancing Techniques For Binary Classification
 
-Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1LcytPzg3fDqj06ha5mDMur7GTUSMKsDW68JRqZUoHrs/edit?usp=sharing
-
 Paper submission date (to workshop/conference):
 09 May 2023
 
